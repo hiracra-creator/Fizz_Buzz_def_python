@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "FizzBuzz.build_meta"
 
 [project]
-name = "FizzBuzz"
-version = "0.01"
+name = "FizzBuzz_v0.1"
+version = "0.1"
 authors = [
   { name="hiracra-creator" },
 ]
